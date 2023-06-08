@@ -1,2 +1,2 @@
 #!/bin/bash
-groups
+who_am_i
